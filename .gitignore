@@ -1,0 +1,5 @@
+logs
+*.notready
+git_*
+#syncit*
+rel
