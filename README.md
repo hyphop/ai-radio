@@ -1,3 +1,3 @@
-# AI-radio
+# AI-Radio
 
-ai radio - audio broadcast fully automated system
+AI-Radio - fully automated advanced audio broadcasting system - http://ai-radio.org/
